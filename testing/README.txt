@@ -1,0 +1,3 @@
+El presente repositorio busca mostrar la resolución por mi parte del siguiente ejercicio presentado en el marco de eggcooperation:
+
+El objetivo del ejercicio es: 1. Abrir el navegador y navegar a la página de inicio de Google. 2. Maximizar la ventana del navegador. 3. Navegar a la página de inicio de OpenAI. 4. Reducir la ventana del navegador a la mitad de su tamaño y centrarla en la pantalla. 5. Navegar a la página de inicio de Wikipedia. 6. Cambiar el tamaño de la ventana del navegador a su tamaño original 7. Cerrar el navegador
